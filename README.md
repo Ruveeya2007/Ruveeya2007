@@ -1,14 +1,25 @@
+---
 
+## 🚀 Professional Overview
 
-# 🌈 Hi, I'm Ruwin Thathsara 🇱🇰
-### 🚀 Full-Stack Developer | 🎨 Creative Director at Ruvi Creative
+<p align="left">
+  <img src="https://img.shields.io/badge/Role-Full--Stack%20Developer-blue?style=for-the-badge&logo=appveyor" />
+  <img src="https://img.shields.io/badge/Company-Ruvi%20Creative-ff69b4?style=for-the-badge&logo=adobe-creative-cloud" />
+</p>
 
-- 🛠️ **Currently Building:** A high-performance **Learning Management System (LMS)**.
-- 💎 **Ruvi Marketplace:** Expert in trading premium social media assets.
-- 🎨 **Ruvi Creative:** Crafting professional Logos, Social Media Posts, & Video Content.
-- 📸 **Photography:** Capturing life through the lens of **Ruvii Photography**.
-- 💡 **Tech Stack:** PHP, Laravel, Java, and Spring Boot.
-- 📞 **Direct Contact:** [+94 74 258 8939](https://wa.me/94742588939)
+| 🏢 **Project / Business** | 🛠 **Focus & Expertise** |
+| :--- | :--- |
+| **🏫 LMS Project** | Building a high-performance Learning Management System with Laravel. |
+| **💎 Ruvi Marketplace** | Specialist in premium social media asset trading & growth. |
+| **🎨 Ruvi Creative** | Professional Brand Identity, Logo Design, & Video Production. |
+| **📸 Ruvii Photography** | Commercial & Lifestyle photography services. |
+| **💡 Tech Stack** | PHP • Laravel • Java • Spring Boot • MySQL |
+
+---
+
+### 📞 Let's Work Together
+> **Direct Contact:** [+94 74 258 8939](https://wa.me/94742588939)  
+> *Available for freelance development and creative design projects.*
 
 ---
 
