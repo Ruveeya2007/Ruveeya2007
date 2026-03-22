@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi there, I'm Ruwin Thathsara 👋 🇱🇰
 
-<!--
-**Ruveeya2007/Ruveeya2007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
+</p>
 
-Here are some ideas to get you started:
+### 💻 What I'm working on
+- 🛠️ Developing a **Learning Management System (LMS)** using Laravel.
+- 🏪 Managing **Ruvi Marketplace** for social media assets.
+- 🎨 Crafting visual identities at **RUVII Graphics**.
+- 📸 Capturing moments with **Ruvii Photography**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech & Tools
+- **Backend:** PHP, Laravel, Java, Spring Boot
+- **Frontend:** HTML, CSS, JavaScript
+- **Design:** Photoshop, Illustrator, Premiere Pro
+- **Database:** MySQL, PostgreSQL
+
+### 📊 GitHub Stats
+![Ruveeya2007's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ruveeya2007&show_icons=true&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ruveeya2007&layout=compact&theme=transparent)
+
+---
+
+### 📫 Connect with me
+- 💼 **RUVII Graphics** & **Ruvi Marketplace**
+- 📸 **Ruvii Photography**
