@@ -5,7 +5,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?user=Ruveeya2007&label=PROFILE%20VIEWS&color=CC33FF&style=flat-square" />
   &nbsp;
-  <img src="https://github-profile-trophy.vercel.app/?username=Ruveeya2007&theme=monokai&no-bg=true&margin-w=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Ruveeya2007&theme=monokai&no-bg=true" />
 </p>
 
 ---
