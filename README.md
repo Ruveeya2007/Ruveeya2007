@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Ruwin%20Thathsara&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Ruvi%20Creative&descAlignY=60&descSize=30" />
+</p>
 ---
 
 ## 🚀 Professional Overview
