@@ -1,6 +1,39 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Ruwin%20Thathsara&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Ruvi%20Creative&descAlignY=60&descSize=30" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Ruvi%20Creative&fontSize=80&animation=fadeIn&fontAlignY=35" />
 </p>
+
+---
+
+<table align="center">
+  <tr>
+    <td align="center" width="30%">
+      <img src="https://github.com/Ruveeya2007/Ruveeya2007/raw/main/profile.jpg" width="200px" style="border-radius:50%; border: 4px solid #CC33FF;" alt="Ruwin Thathsara"/>
+      <br />
+      <b>Ruwin Thathsara</b>
+    </td>
+    <td width="70%">
+      <h1>🌈 Welcome to my Creative Space! 👋</h1>
+      <h3>🚀 Full-Stack Developer | 🎨 Creative Director @ Ruvi Creative</h3>
+      <p>
+        I am a software engineering student from <b>Sri Lanka 🇱🇰</b> dedicated to 
+        building high-performance digital solutions and premium visual identities.
+      </p>
+      <p>
+        ✨ <b>Focus:</b> PHP, Laravel, Java, and Professional Graphic Design.
+      </p>
+      <p>
+        📫 <b>Reach Me:</b> <a href="https://wa.me/94742588939">+94 74 258 8939</a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?user=Ruveeya2007&label=PROFILE%20VIEWS&color=CC33FF&style=flat-square" />
+  &nbsp;
+  <img src="https://github-profile-trophy.vercel.app/?username=Ruveeya2007&theme=monokai&no-bg=true" />
+</p>
+
 ---
 
 ## 🚀 Professional Overview
