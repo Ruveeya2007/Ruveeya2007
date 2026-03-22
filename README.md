@@ -1,14 +1,4 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Ruvi%20Creative&fontSize=80&animation=fadeIn&fontAlignY=35" />
-</p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?user=Ruveeya2007&label=PROFILE%20VIEWS&color=CC33FF&style=flat-square" />
-  &nbsp;
-  <img src="https://github-profile-trophy.vercel.app/?username=Ruveeya2007&theme=monokai&no-bg=true" />
-</p>
-
----
 
 # 🌈 Hi, I'm Ruwin Thathsara 🇱🇰
 ### 🚀 Full-Stack Developer | 🎨 Creative Director at Ruvi Creative
