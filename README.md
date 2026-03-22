@@ -1,24 +1,33 @@
+---
+
 <table align="center">
   <tr>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/Ruveeya2007/Ruveeya2007/main/WhatsApp%20Image%202026-03-22%20at%2020.08.25%20(1).jpeg" width="220px" style="border-radius:50%; border: 4px solid #CC33FF;" alt="Ruwin Thathsara"/>
+    <td align="center" width="200">
+      <img src="https://raw.githubusercontent.com/Ruveeya2007/Ruveeya2007/main/WhatsApp%20Image%202026-03-22%20at%2020.08.25%20(1).jpeg" width="180px" style="border-radius:50%; border: 4px solid #CC33FF;" alt="Ruwin Thathsara"/>
       <br />
-      <b>Ruwin Thathsara</b>
+      <sub><b>Ruwin Thathsara</b></sub>
     </td>
-    <td>
-      <h1>👋 Hi, I'm Ruwin! 🌈</h1>
-      <h3>🚀 Full-Stack Developer | 🎨 Creative Director @ Ruvi Creative</h3>
+    <td width="600">
+      <h1>🌈 Hi, I'm Ruwin! 👋</h1>
+      <p align="left">
+        <img src="https://img.shields.io/badge/Full--Stack%20Developer-%23007ACC?style=flat-square&logo=appveyor&logoColor=white" />
+        <img src="https://img.shields.io/badge/Creative%20Director-Ruvi%20Creative-ff69b4?style=flat-square&logo=adobe-creative-cloud&logoColor=white" />
+      </p>
       <p>
-        Software engineering student from <b>Sri Lanka 🇱🇰</b>. 
-        I specialize in <b>PHP, Laravel, and Java</b> while leading 
+        I am a <b>Software Engineering Student</b> from <b>Sri Lanka 🇱🇰</b>. I specialize in building 
+        robust systems with <b>PHP, Laravel, and Java</b>, while leading visual innovation at 
         <b>Ruvi Creative</b> and <b>Ruvi Marketplace</b>.
       </p>
       <p>
-        📫 <b>WhatsApp:</b> <a href="https://wa.me/94742588939">+94 74 258 8939</a>
+        <a href="https://wa.me/94742588939">
+          <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+        </a>
       </p>
     </td>
   </tr>
 </table>
+
+---
 
 ## 🚀 Professional Overview
 
