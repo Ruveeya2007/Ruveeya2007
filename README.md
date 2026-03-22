@@ -43,14 +43,14 @@
 </p>
 
 ### 🟡 Design & Creative Tools
+### 🟡 Design & Creative Tools
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="60" height="60"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-original.svg" alt="photoshop" width="60" height="60"/> &nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-plain.svg" alt="illustrator" width="60" height="60"/> &nbsp;
   <img src="https://www.vectorlogo.zone/logos/adobe_premiere_pro/adobe_premiere_pro-icon.svg" alt="premiere" width="60" height="60"/> &nbsp;
   <img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" alt="canva" width="60" height="60"/> &nbsp;
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="60" height="60"/>
 </p>
-
 ---
 
 ## 📊 Performance Metrics
