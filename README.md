@@ -26,5 +26,6 @@
 ---
 
 ### 📫 Connect with me
+- 📞 **Phone/WhatsApp:** [+94 74 258 8939](https://wa.me/94742588939)
 - 💼 **RUVII Graphics** & **Ruvi Marketplace**
 - 📸 **Ruvii Photography**
