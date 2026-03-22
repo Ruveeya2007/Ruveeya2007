@@ -1,29 +1,30 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Ruwin%20Thathsara&fontSize=70&animation=fadeIn&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Ruvi%20Creative&fontSize=80&animation=fadeIn&fontAlignY=35" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?user=Ruveeya2007&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Visitors Count" />
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Ruveeya2007&theme=tokyonight&no-bg=true&margin-w=4" alt="github trophy" /></a>
+  <img src="https://komarev.com/ghpvc/?user=Ruveeya2007&label=PROFILE%20VIEWS&color=CC33FF&style=flat-square" alt="Visitors Count" />
+  &nbsp;
+  <img src="https://github-profile-trophy.vercel.app/?username=Ruveeya2007&theme=monokai&no-bg=true&margin-w=4" alt="github trophy" />
 </p>
 
 ---
 
-# 👋 Hi, I'm Ruwin Thathsara 🇱🇰
-### Full-Stack Developer | Founder of Ruvi Marketplace | Creative at RUVII Graphics
+# 🌈 Hi, I'm Ruwin Thathsara 🇱🇰
+### 🚀 Full-Stack Developer | 🎨 Creative Director at Ruvi Creative
 
-- 🔭 I’m currently building a **Learning Management System (LMS)**.
-- 🏪 Operating **Ruvi Marketplace** for social media asset trading.
-- 🎨 Lead Designer at **RUVII Graphics** (Logo, Post, & Video Design).
-- 📸 Photographer at **Ruvii Photography**.
-- 💬 Ask me about **PHP, Laravel, Java, and Spring Boot**.
-- 📫 Reach me directly at: **+94 74 258 8939**
+- 🛠️ **Currently Building:** A high-performance **Learning Management System (LMS)**.
+- 💎 **Ruvi Marketplace:** Expert in trading premium social media assets.
+- 🎨 **Ruvi Creative:** Crafting professional Logos, Social Media Posts, & Video Content.
+- 📸 **Photography:** Capturing life through the lens of **Ruvii Photography**.
+- 💡 **Tech Stack:** PHP, Laravel, Java, and Spring Boot.
+- 📞 **Direct Contact:** [+94 74 258 8939](https://wa.me/94742588939)
 
 ---
 
-## 🛠 Tech Arsenal
+## ⚡ Tech Arsenal
 
-### 🚀 Programming Languages
+### 🔴 Programming Languages
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="60" height="60"/> &nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="60" height="60"/> &nbsp;
@@ -32,7 +33,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/>
 </p>
 
-### 🖥️ Frameworks & Backend
+### 🔵 Frameworks & Backend
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" alt="laravel" width="60" height="60"/> &nbsp;
   <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="60" height="60"/> &nbsp;
@@ -41,7 +42,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="60" height="60"/>
 </p>
 
-### 🎨 Design & Creative Tools
+### 🟡 Design & Creative Tools
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="60" height="60"/> &nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-plain.svg" alt="illustrator" width="60" height="60"/> &nbsp;
@@ -50,42 +51,26 @@
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="60" height="60"/>
 </p>
 
-### 💾 Database & DevOps
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60" height="60"/> &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="60" height="60"/> &nbsp;
-  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="60" height="60"/> &nbsp;
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60"/>
+---
+
+## 📊 Performance Metrics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ruveeya2007&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ruveeya2007&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ruveeya2007&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ruveeya2007&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ruveeya2007&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
----
-
-## 📱 Connect With Me
+## 🌐 Let's Connect
 <p align="left">
   <a href="https://wa.me/94742588939" target="blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
   <a href="mailto:ruwinthathsara@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 <p align="center">
-  <a href="https://www.buymeacoffee.com/Ruveeya2007"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="180" height="50" /></a>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" />
 </p>
